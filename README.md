@@ -1,5 +1,5 @@
 # Atividade-1-Bootcamp-Avanti
-Atividade 1 do Bootcamp de Manchine Lerning Avanti
+Atividade 1 do Bootcamp de Manchine Learning Avanti
 
 1. De acordo com meus estudos entendi que Machine Learning é uma área da computação que cria modelos que aprendem com dados pra fazer previsões. O modelo que a gente faz analisa os dados e entende padrões neles, tipo reconhecer imagens, classificar textos ou recomendar produtos. E depois de treinado ele consegue fazer previsões com dados novos.
 
